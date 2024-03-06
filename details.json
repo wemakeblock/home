@@ -1,0 +1,26 @@
+{
+	"representative": {
+    	"logo": {
+        	"logo_256": "https://raw.githubusercontent.com/wemakeblock/home/main/img/logo-128x128.png"
+        },
+        "media": {
+            "steemit": "",
+            "twitter": "",
+            "youtube": "",
+            "facebook": "",
+            "github": "https://github.com/wemakeblock/",
+            "reddit": "",
+            "keybase": "",
+            "telegram": "",
+            "wechat": ""
+        }
+    },
+    "server": {
+        "location": {
+            "country": "",
+            "city": ""
+        },
+        "server_type": "",
+        "api_endpoint": ""
+	}
+}
